@@ -14,5 +14,5 @@ Go check out the HTML file! Everything you need to know is there!
 
 ## Nice-to-have features
 - [ ] Chaser AND runner circle are functional
-- [ ] Lightmode / Darkmode switch
+- [x] Lightmode / Darkmode switch
 - [ ] Final letter challenge completed!
