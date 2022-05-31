@@ -8,7 +8,6 @@ body{
 
 .image{
     height: 250px;
-    background: midnightblue;
 }
 
 .poke{
@@ -35,7 +34,6 @@ body{
 }
 
 .carouselContainer{
-    background: royalblue;
     height: 400px;
 }
 
